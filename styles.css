@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+}
+table {
+    background-color: black;
+}
+h2 {
+    color: white;
+}
+
+.red {
+    background-color: red;
+}
+tr {
+    color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.yellowt{
+    color: yellow;
+}
+
+.blackt{
+    background-color: black;
+    color: black;
+}
+.green {
+    background-color: green;
+}
+.greent{
+    color: green;
+}
+.blue {
+    background-color: blue;
+}
+.bluet {
+    color: blue;
+}
